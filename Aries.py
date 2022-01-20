@@ -141,7 +141,7 @@ async def start_aries():
             print("Booting Up The Client 1")
             await idk.start()
             botme = await idk.get_me()
-            await idk(functions.channels.JoinChannelRequest(channel=""))
+            await idk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await idk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await idk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await idk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -167,7 +167,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 2")
             await ydk.start()
-            await ydk(functions.channels.JoinChannelRequest(channel=""))
+            await ydk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await ydk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await ydk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await ydk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -195,7 +195,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 3")
             await  wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel=""))
+            await wdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await wdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await wdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await wdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -223,7 +223,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 4")
             await hdk.start()
-            await hdk(functions.channels.JoinChannelRequest(channel=""))
+            await hdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await hdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await hdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await hdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -251,7 +251,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 5")
             await sdk.start()
-            await sdk(functions.channels.JoinChannelRequest(channel=""))
+            await sdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await sdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await sdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await sdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -279,7 +279,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 6")
             await adk.start()
-            await adk(functions.channels.JoinChannelRequest(channel=""))
+            await adk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await adk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await adk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await adk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -307,7 +307,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 7")
             await bdk.start()
-            await bdk(functions.channels.JoinChannelRequest(channel=""))
+            await bdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await bdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await bdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await bdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -336,7 +336,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 8")
             await cdk.start()
-            await cdk(functions.channels.JoinChannelRequest(channel=""))
+            await cdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await cdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await cdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await cdk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -364,7 +364,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 9")
             await ddk.start()
-            await ddk(functions.channels.JoinChannelRequest(channel=""))
+            await ddk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await ddk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await ddk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await ddk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -393,7 +393,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 10")
             await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel=""))
+            await edk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await edk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await edk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await edk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -422,7 +422,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 11")
             await vkk.start()
-            await vkk(functions.channels.JoinChannelRequest(channel=""))
+            await vkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await vkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await vkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await vkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -451,7 +451,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 12")
             await kkk.start()
-            await kkk(functions.channels.JoinChannelRequest(channel=""))
+            await kkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await kkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await kkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await kkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -480,7 +480,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 13")
             await lkk.start()
-            await lkk(functions.channels.JoinChannelRequest(channel=""))
+            await lkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await lkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await lkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await lkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -509,7 +509,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 14")
             await mkk.start()
-            await mkk(functions.channels.JoinChannelRequest(channel=""))
+            await mkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await mkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await mkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await mkk(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -538,7 +538,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 15")
             await sid.start()
-            await sid(functions.channels.JoinChannelRequest(channel=""))
+            await sid(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await sid(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await sid(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await sid(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -568,7 +568,7 @@ async def start_aries():
             print("Booting Up The Client 16")
             await shy.start()
             botme = await shy.get_me()
-            await shy(functions.channels.JoinChannelRequest(channel=""))
+            await shy(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await shy(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await shy(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await shy(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -595,7 +595,7 @@ async def start_aries():
             print("Booting Up The Client 17")
             await aan.start()
             botme = await aan.get_me()
-            await aan(functions.channels.JoinChannelRequest(channel=""))
+            await aan(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await aan(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await aan(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await aan(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
@@ -920,7 +920,7 @@ async def start_aries():
         try:
             print("Booting Up The Client 29")
             await aaa.start()
-            await aaa(functions.channels.JoinChannelRequest(channel=""))
+            await aaa(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await aaa(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await aaa(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
             await aaa(functions.channels.JoinChannelRequest(channel="@team_blackstorm"))
