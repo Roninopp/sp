@@ -1306,7 +1306,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"☠️ 𝙁𝙐𝘾𝙆𝙄𝙉𝙂 𝙎𝙋𝙀𝙀𝘿 !\n`{ms}` 𝗺𝘀\n ")
+        await event.edit(f"AVIVEҞ R㊉NIN IS ㊉N 🔥 My papa @DushmanXRonin !\n`{ms}` 𝗺𝘀\n ")
 
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
@@ -1499,7 +1499,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = "𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 ☠️☠️\n►Pɪɴɢ\n►Rᴇsᴛᴀʀᴛ\n►Jᴏɪɴ\n►Lᴇᴀᴠᴇ\n►Pᴊᴏɪɴ\n►Bɪɢsᴘᴀᴍ\n►Rᴀɪᴅ\n\n\n\n       [⚜𝐓𝐄𝐀𝐌 𝐁𝐋𝐀𝐂𝐊𝐒𝐓𝐎𝐑𝐌⚜](https://t.me/TEAM_BLACKSTORM)"
+       text = "𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 ☠️☠️\n►Pɪɴɢ\n►Rᴇsᴛᴀʀᴛ\n►Jᴏɪɴ\n►Lᴇᴀᴠᴇ\n►Pᴊᴏɪɴ\n►Bɪɢsᴘᴀᴍ\n►Rᴀɪᴅ\n\n\n\n       [⚜𝐓𝐄𝐀𝐌 Samurai⚜](https://t.me/RONIN_Fighters_Fd)"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1507,8 +1507,8 @@ async def help(e):
     
         
 text = """
-⚜️ 𝙂𝙤 𝘿𝙤 .𝙥𝙞𝙣𝙜 𝙖𝙩 @𝙏𝙚𝙖𝙢_𝘽𝙡𝙖𝙘𝙠𝙎𝙩𝙤𝙧𝙢 ⚜️
-💥𝗕𝗬 @BlackStorm_owner 💥"""
+⚜️ 𝙂𝙤 𝘿𝙤 .𝙥𝙞𝙣𝙜 𝙖𝙩 @RONIN_Fighters_Fd ⚜️
+💥𝗕𝗬 @DushmanXRonin 💥"""
 
 print(text)
 print("")
